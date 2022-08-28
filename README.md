@@ -8,14 +8,20 @@
 ![Alt-текст](https://github.com/islamhadjime/web_fron/blob/main/assets/screen.png "Орк")
 
 
+____
+```
+git clone  https://github.com/islamhadjime/web_fron.git
+cd web_fron /
+click on index.html
 
+____
 
 ---
 Getting Started
 Choose one of the following options to get started:
 
 Download the latest release
-Clone the repo: git clone https://github.com/tailwindtoolbox/Ghostwind.git
+Clone the repo: git clone [https://github.com/tailwindtoolbox/Ghostwind.git](https://github.com/islamhadjime/web_fron.git)
 Fork the repo
 
 ---
