@@ -1,6 +1,6 @@
 
 
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![Alt-текст](https://github.com/islamhadjime/web_fron/blob/main/assets/screen.png "Орк")
 
 
 Choose one of the following options to get started:
